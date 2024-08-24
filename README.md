@@ -4,7 +4,7 @@
 3. Install deps (if needed) ```npm i```
 
 - To start dice game ```ts-node game-dadu.ts```
-- To start triangle program ```ts-node triangle```
+- To start triangle program ```ts-node triangle.ts```
 - To see sliced design:
   1. Install live server from vscode extension
   2. Run the live server, after that you'll be redirected to http://127.0.0.1:5500/
